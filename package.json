@@ -1,0 +1,15 @@
+{
+  "name": "dompurify-vulnerable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ron Perris <ron@npmjs.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^2.2.1"
+  }
+}
